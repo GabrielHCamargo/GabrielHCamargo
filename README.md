@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com Full Stack
 - 🌱 Estou estudando Dart
-- 😄 Pronouns: Ele/Dele
 
  <div>
   <a href="https://github.com/GabrielHCamargo">
