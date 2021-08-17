@@ -1,7 +1,7 @@
-### Olá! Eu sou o Gabriel Camargo
+### Hi! I am Gabriel Camargo
 
-- 🔭 Hoje trabalho com Full Stack
-- 🌱 Estou estudando Dart
+- 🔭 Today I work with Full Stack Development
+- 🌱 I'm studying Dart
 
  <div>
   <a href="https://github.com/GabrielHCamargo">
